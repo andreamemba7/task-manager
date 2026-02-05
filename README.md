@@ -8,20 +8,29 @@ A static web-based task management application that allows users to add, view, c
 
 ## Features
 Add new tasks
+
 View list of tasks
+
 Mark tasks as completed
+
 Delete tasks
+
 Persist tasks using browser localStorage
 
 ## Technology Stack
 HTML – Structure
+
 CSS – Styling and responsiveness
+
 JavaScript – Logic and interaction
+
 GitHub Pages – Static hosting and deployment
 
 ## How to Run Locally
 Clone the repository
+
 Open index.html in any modern browser
+
 (or use Live Server in VS Code)
 
 ## Live Application
@@ -29,15 +38,22 @@ https://yourusername.github.io/task-manager/
 
 ## Deployment Process (GitHub Pages)
 Source code pushed to a public GitHub repository
+
 GitHub Pages enabled from repository settings
+
 GitHub serves static files directly to users via HTTP
 
 ## Web Infrastructure Overview
 When a user types the website URL:
+
 The browser sends a request over the internet
+
 DNS resolves the domain to GitHub’s server
+
 GitHub Pages serves static HTML, CSS, and JavaScript files
+
 The browser renders the interface and executes JavaScript
+
 User interactions happen entirely in the browser
 
 ## Infrastructure Flow Diagram
