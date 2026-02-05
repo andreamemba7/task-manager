@@ -34,7 +34,7 @@ Open index.html in any modern browser
 (or use Live Server in VS Code)
 
 ## Live Application
-https://yourusername.github.io/task-manager/
+https://andreamemba7.github.io/task-manager/
 
 ## Deployment Process (GitHub Pages)
 Source code pushed to a public GitHub repository
