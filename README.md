@@ -61,5 +61,7 @@ User → Browser → Internet → GitHub Pages Server → HTML/CSS/JS Files
 
 ## Design Choices & Assumptions
 No backend server is used
+
 All data is stored locally in the browser
+
 Designed as an early MVP for quick validation
